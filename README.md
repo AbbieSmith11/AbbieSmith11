@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Abbie Smith 👋  
 
-<!--
-**AbbieSmith11/AbbieSmith11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Software Developer | 🌍 Based in Cambridge, UK  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 Currently building [Earth Angel Club](https://github.com/AbbieSmith11/EarthAngelClub) – *A website to build on my pinterest and instagram account which speaks on confidence and self-love*  
+- 💡 I am passionate about creating innovative solutions that have a positive and meaningful impact on the world
+- ⚡ Fun fact: I **volunteer at a zoology museum** in my spare time🦤
+
+---
+
+## 📚 Currently Learning  
+🌟 **Full-Stack Web Development**: HTML, CSS, JavaScript, React, Node.js, MongoDB, PostgreSQL  
+🔧 **Version Control**: Git, GitHub   
+
+---
+
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbieSmith11&layout=compact&theme=light)  
+
+
+---
+
+## 🔗 Connect With Me  
+📌 **Portfolio**: 👉 [My Portfolio](https://abbiesmith11.github.io)  
