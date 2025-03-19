@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently building [Earth Angel Club](https://github.com/AbbieSmith11/EarthAngelClub) – *A website to build on my pinterest and instagram account which speaks on confidence and self-love*  
+- 🔭 Currently building [Earth Angel Club](https://github.com/AbbieSmith11/EarthAngelClub) – *A web platform expanding on my Pinterest and Instagram content, focused on confidence, self-love, and personal growth.*  
 - 💡 I am passionate about:
     - **Solving complex problems**
     - Crafting **intuitive, user-friendly and visually appealing UI/UX** designs
