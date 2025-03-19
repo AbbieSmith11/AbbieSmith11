@@ -15,7 +15,7 @@
 ---
 
 ## 📚 Currently Learning  
-🌟 **Full-Stack Web Development**: HTML, CSS, JavaScript, React, Node.js, MongoDB, PostgreSQL  
+🌟 **Full-Stack Web Development**: HTML, CSS, JavaScript, Node.js  
 🔧 **Version Control**: Git, GitHub   
 
 ---
