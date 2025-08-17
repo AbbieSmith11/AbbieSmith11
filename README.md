@@ -45,5 +45,7 @@
 
 ---
 
-<!-- ## 🔗 Connect With Me  
-📌 **Portfolio**: 👉 [My Portfolio](https://abbiesmith11.github.io)  -->
+## 🔗 Connect With Me  
+- **LinkedIn:** [linkedin.com/in/abbiesmith](www.linkedin.com/in/abbie-smith-b6430037b)  
+- **Portfolio:** WIP🚧
+
