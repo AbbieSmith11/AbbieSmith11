@@ -14,12 +14,6 @@
 
 ---
 
-## 📚 Currently Learning  
-- 🌟 **Full-Stack Web Development**: HTML, CSS, JavaScript, Node.js, React, Typescript, MySql
-- 🔧 **Version Control**: Git, GitHub   
-
----
-
 ## 🛠 Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
