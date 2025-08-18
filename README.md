@@ -1,16 +1,14 @@
 # Hi there, I'm Abbie Smith 👋  
 
-## 💻 Aspiring Software Developer | 🌍 Based in Cambridge, UK  
+## 💻 Aspiring Software Engineer | 🌍 Based in Cambridge, UK  
 
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently building [Earth Angel Club](https://github.com/AbbieSmith11/EarthAngelClub) – *A web platform expanding on my Pinterest and Instagram content, focused on confidence, self-love, and personal growth.*  
 - 💡 I am passionate about:
     - **Solving complex problems**
-    - Crafting **intuitive, user-friendly and visually appealing UI/UX** designs
+    - Designing **intuitive, user-friendly, and visually appealing UI/UX**
     - Building **innovative solutions** that create a **positive and meaningful impact on the world**
-- ⚡ Fun fact: I **volunteer at a zoology museum** in my spare time🦤
 
 ---
 
