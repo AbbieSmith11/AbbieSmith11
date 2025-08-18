@@ -46,6 +46,6 @@
 ---
 
 ## 🔗 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/abbiesmith-/
+- **LinkedIn:** https://www.linkedin.com/in/abbiesmith1/
 - **Portfolio:** WIP🚧
 
