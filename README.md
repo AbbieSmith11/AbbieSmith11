@@ -1,6 +1,6 @@
 # Hi there, I'm Abbie Smith 👋  
 
-## 💻 Aspiring Software Engineer | 🌍 Based in Cambridge, UK  
+## 💻 Aspiring Software Engineer | 🌍 Based in Manchester, UK  
 
 ---
 
