@@ -35,7 +35,7 @@
 ---
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbieSmith11&layout=compact&theme=light)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbieSmith11&layout=compact&theme=light&cache_seconds=1800)  
 
 
 ---
