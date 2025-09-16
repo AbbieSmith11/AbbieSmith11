@@ -43,5 +43,5 @@
 
 ## 🔗 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/abbiesmith1/
-- **Portfolio:** WIP🚧
+- **Portfolio:** https://www.abbiesmith.dev/
 
