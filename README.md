@@ -2,8 +2,6 @@
 
 ## 💻 Software Engineer | 🌍 Based in Manchester, UK  
 
----
-
 ### 🚀 About Me  
 - I am passionate about:
     - 💡 **Solving problems** and **Learning new Skills**
