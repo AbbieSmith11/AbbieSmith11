@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me  
-- 💡 I am passionate about:
-    - **Solving complex problems**
-    - Designing **intuitive, user-friendly, and visually appealing UI/UX**
-    - Building **innovative solutions** that create a **positive and meaningful impact on the world**
+- I am passionate about:
+    - 💡 **Solving problems** and **Learning new Skills**
+    - 🌸 Designing **intuitive and user-friendly UI/UX**
+    - ✨ Building **solutions** that **spread positvity and help others**
 
 ---
 
