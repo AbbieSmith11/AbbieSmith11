@@ -85,14 +85,6 @@ I'm currently focused on **frontend development**, working on a **component libr
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=AbbieSmith11&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 🔗 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/abbiesmith1/
 - **Portfolio:** https://www.abbiesmith.dev/
